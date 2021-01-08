@@ -1,0 +1,138 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+section{
+   height: 500px;
+   padding-bottom: 100px;
+
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+p{
+    padding-bottom: 25px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    height: 500px;
+
+}
+.half-width img{
+    width: 85%;
+    height: 100%;
+}
+
+.text-highlight{
+    color: rgb(189, 129, 18);
+}
+
+.link-button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, lightSalmon, tomato);
+        
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+}
+
+.skills{
+    text-align: center;
+    height: 500px;
+    padding-top: 50px;
+    background-color: orangered;
+        
+}
+.text-highlight1 {
+    color: rgba(51, 76, 219, 0.966);
+}
+ul li{
+    text-align: left;
+}
+.skill-set{
+    box-shadow: 10px 20px 40px rgb(227, 241, 26);
+    width: 25%;
+    height: 45%;
+    background-color: rgb(243, 118, 16);
+    border-radius: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.portfolio{
+    text-align: center;
+    height: 600px;
+    padding-top: 50px;
+    background-color: rgba(255, 249, 246, 0.979);
+    
+}
+.project {
+
+    box-shadow: 10px 20px 40px rgb(245, 240, 216);
+    width: 25%;
+    height: 85%;
+    background-color: rgb(226, 195, 166);
+    border-radius: 20px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  .project img{
+    width: 95%;
+    height: 50%;
+    margin-top: 5%;
+     
+  }
+  
+.box {
+    padding: 25px;
+  
+  }
+
+
+
+.Contact-section{
+    
+    background-position: center;
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+
+}
+
+#contact1{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+    color: orange;
+}
+#contact2{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+    color: orange;
+}
+
+footer{
+    height: 500px;
+    text-align: center;
+    background-color: purple;
+    
+    
+
+}
+footer img{
+    margin-left: 10px;
+    height: 50px;
+}
